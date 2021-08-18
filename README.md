@@ -5,4 +5,4 @@ Link to competition - https://www.kaggle.com/c/titanic
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-# Model trained using 'Random Forest'
+Model trained using 'Random Forest'
